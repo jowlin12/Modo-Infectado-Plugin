@@ -1,0 +1,19 @@
+main: moi.jowlin.Modo_Infectado
+version: 1.0.0
+name: Modo_Infectado
+author: Jowlin_
+api-version: 1.13
+
+commands:
+  modoinfectado:
+    description: "Comando principal del moi"
+    aliases:
+      - moi
+  modoinfectado_start:
+    description: "Este comando iniciar el minijuego"
+    aliases:
+      - start
+  modoinfectado_vidas:
+    description: "muestra las vidas"
+    aliases:
+      - vidas
